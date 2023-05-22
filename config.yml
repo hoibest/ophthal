@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: ophthal study hub
     subtitle: "Ophthalmology | History | Examination | Pathology | Everything Else"
-    imageUrl: "/imgs/study.GIF"
+    imageUrl: "/study.gif"
     imageWidth: 135
     imageHeight: 135
     imageTitle: 
