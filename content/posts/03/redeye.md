@@ -26,34 +26,34 @@ description: "Ophthalmology basic-03"
 
 ## Differential diagnosis 
 
-### Vision 
+### 1. Vision 
 1. Conjunctivitis: **good** 
 2. Acute anterior uveitis: **moderate reduction** 
 3. Acute angle-closure glaucoma: **poor**
     - Raised IOP -> microcystic corneal oedema
 
-### Pain 
+### 2. Pain 
 1. Conjunctivitis: **mild discomfort**
 2. Acute anterior uveitis: **moderate to high**
     - Along the first division (ophthalmic) of trigeminal nerve
 3. Acute angle-closure glaucoma: **severe**
     - Along the entire trigeminal nerve -> Jaw/tooth/temple radiating pain
 
-### Secretion 
+### 3. Secretion 
 1. Conjunctivitis: **mucopurulent(bacterial) /watery (viral)"
 2. AAU: **watery discharge**
 3. AACG: **watery discharge**
 
-### Photophobia 
+### 4. Photophobia 
 1. Conjunctivits: **absence**
 2. AAU & AACG: **presence** because iris / cornea involved 
 
-### Coloured halos
+### 5. Coloured halos
 **Definition :** Ring of rainbow coloured light upon watching light
 1. Conjunctivits && AAU: **absence**
 2. AACG: **presence** varied refractive index due to corneal oedema
 
-### Type of congestion 
+### 6. Type of congestion 
 1. Conjunctivitis: **superficial**
     - More in the fornices, less around the cornea (limbus)
     - color is **bright red**
@@ -64,16 +64,16 @@ description: "Ophthalmology basic-03"
     - Deep anterior ciliary vessels 
         - (coming from posterior ciliary artery -> supply muscle -> plexus around cornea)
 
-### Pupil
+### 7. Pupil
 1. Conjunctivitis: **normal**
 2. AAU: **small & irregular (festooned)**
 3. AACG: **large, mid-dilated, vertically oval**
 
-### Depth
+### 8. Depth
 1. AACG: **decreased**
     - because iris is pushed toward the cornea
 
-### IOP
+### 9. IOP
 1. Conjunctivitis: **normal**
 2. AAU: **normal, raised, low**
 3. AACG: **raised**

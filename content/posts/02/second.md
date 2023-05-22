@@ -24,11 +24,14 @@ description: "Ophthalmology basic-02"
 - Keratoconjunctivitis 
 - Panuveitis (or spilled posterior uveitis) involving anterior segment
 - Dilating drops
+- Dry eyes 
+- Blepharitis
 
 ## Spot diagnosis (photophobia)
 
 ![spot diagnosis](/posts/02/photophobia-01.png)
 
+*Top left to right*
 1. Foreign body - cornea
 2. Limbal hypertrophy - congestion - Allergic or vernal keratoconjunctivitis
 3. Phlyckenular keratoconjunctivitis 
@@ -63,9 +66,10 @@ description: "Ophthalmology basic-02"
 - Congenital cone dystrophy 
 - Central macular disorders 
 
-## Systemic causes of photophobia
+## Systemic causes of photophobia (non-ophthalmic)
 
 - Migraine
+    - people who have **chronic** migraines are more light-sensitive than those who have **sporadic** migraines
 - Meningitis 
 - Trigeminal neuralgia
 - Cranial disorders such as subarachnoid haemorrhage 
@@ -73,3 +77,5 @@ description: "Ophthalmology basic-02"
 
 **Resource:**
 > https://www.youtube.com/watch?v=EtMNFiSia24&list=PLnMjt5y3GYeye_EOQLrFUXFc07sr8s7VD&index=2
+>
+> https://www.aao.org/eyenet/article/photophobia-looking-causes-solutions
