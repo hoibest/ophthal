@@ -2,7 +2,7 @@
 title: "Diminution of vision"
 date: 2023-05-20T11:30:03+00:00
 draft: false
-category: "Basic ophthalmology"
+categories: ["Basic ophthalmology"]
 tags: ["history","basic"]
 author: "Me"
 showToc: true
