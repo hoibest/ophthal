@@ -74,9 +74,15 @@ if associated with **photopsia** (flashes)
 - Any peripheral retinal degeneration should be looked for
 - Particularly if photopsia is accompanied by floaters 
 
+## Vitreous degneration from Osmosis
+
+![vitreous degeneration](/posts/04/vd.png)
+
 **Resources :**
 
 > https://www.youtube.com/watch?v=zEtW8ripW_4
+>
+> https://www.osmosis.org/answers/vitreous-degeneration
 >
 > *The Wills Eye Manual: office and emergency room diagnosis and treatment of eye disease*
 
