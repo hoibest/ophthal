@@ -29,7 +29,7 @@ particles and fibrous stands floating in the vitreous cavity. <br><br>
 - Shower of dots
 - A sudden increase in their numbers could indicate the formation of a **retinal tear**, especially 
 if associated with **photopsia** (flashes)
-- The onset of new floaters in patients with **diabetic retinopathy** is dangerous and could indicate **vitreous haemorrhage**
+- The onset of new floaters in patients with [**diabetic retinopathy**](https://eyewiki.aao.org/Diabetic_Retinopathy "Eye Wiki")  is dangerous and could indicate **vitreous haemorrhage**
 
 ## Differential diagnosis - floaters
 
